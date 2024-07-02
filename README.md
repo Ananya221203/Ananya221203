@@ -4,6 +4,8 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya221203&label=Profile%20views&color=0e75b6&style=flat" alt="ananya221203" /> </p>
+  		<img src="https://img.shields.io/github/followers/Ananya221203?label=Followers" alt="bouaskaoun" />
+</a>
 
 - 🌱 I’m currently learning **PYTHON**
 

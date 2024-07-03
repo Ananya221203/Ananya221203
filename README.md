@@ -3,6 +3,17 @@
 <h1 align="center">Hi 👋, I'm Ananya soi</h1>
 
 
+
+
+<p>
+    <a href="https://github.com/Ananya221203"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+    <a href="https://github.com/Ananya221203"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+</p>
+
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya221203&label=Profile%20views&color=0e75b6&style=flat" alt="ananya221203" /> </p>
   		<img src="https://img.shields.io/github/followers/Ananya221203?label=Followers" alt="bouaskaoun" />
 </a>

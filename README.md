@@ -68,6 +68,21 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananya221203&" alt="ananya221203" /></p>
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ananya221203theme=merko&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ananya221203&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya221203&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Ananya221203&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
 [Ananya221203](https://github.com/Ananya221203)
 
 
